@@ -18,3 +18,5 @@ Sistema para biblioteca escolar desarrollado en PHP y MySQL.
 - **Adicional** : TAmbien esta la cuetna Estudiante /estudiante
 
 ¡Gracias por utilizar Library_V1 Crack Ten un Like! 😄
+
+Creditos a IESSI por su curso 
